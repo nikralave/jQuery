@@ -1,0 +1,22 @@
+.highlight {
+    color: #28F895;
+    border-bottom-style: dotted;
+    
+}
+
+.lowlight {
+    color: #1C408F;
+}
+
+.bla {
+    background-color: #28E0F8;
+}
+
+.bla2 {
+    background-color: #F8F128;
+}
+
+#myParagraph {
+    color: #F828DE;
+    display:none;
+}
